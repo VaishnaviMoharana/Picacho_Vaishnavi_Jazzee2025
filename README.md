@@ -2,4 +2,7 @@
 
 ## 🎥 Demo Video
 
-[![Watch the video](https://img.youtube.com/vi/D-4WTrq2P2Q/0.jpg)](https://youtu.be/D-4WTrq2P2Q)
+<a href="https://youtu.be/D-4WTrq2P2Q" target="_blank">
+  <img src="https://img.youtube.com/vi/D-4WTrq2P2Q/0.jpg" width="500" />
+</a>
+
