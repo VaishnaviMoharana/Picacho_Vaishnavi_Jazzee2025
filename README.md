@@ -16,7 +16,7 @@ A personalized mental wellness support system built using AG2 (AutoGen), featuri
 
 ## 👥 Team Members
 
-- **Vaishnavi Moharana**
+- **Vaishnavi**
 - **Mayank Kishor**
 
 ---
